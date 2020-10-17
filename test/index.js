@@ -1,5 +1,5 @@
 /* eslint-env node, mocha */
-
+// 我的第一次提交
 var assert = require('assert');
 var Color = require('..');
 
